@@ -4,7 +4,7 @@ import { Link, useNavigate } from "react-router-dom";
 import PortalLayout from "../components/PortalLayout";
 import "../App.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://careerpilot-wxja.onrender.com";
 
 function AdminDashboard() {
   const navigate = useNavigate();

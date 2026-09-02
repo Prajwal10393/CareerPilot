@@ -10,7 +10,7 @@ import PortalLayout from "../components/PortalLayout";
 import "../App.css";
 
 const API_URL =
-  "http://localhost:5000";
+  "https://careerpilot-wxja.onrender.com";
 
 function AdminAnalytics() {
   const navigate =

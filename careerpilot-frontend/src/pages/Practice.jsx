@@ -2,7 +2,7 @@ import "../App.css";
 import { useEffect, useState } from "react";
 import PortalLayout from "../components/PortalLayout";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://careerpilot-wxja.onrender.com";
 
 function Practice() {
   // =========================================================

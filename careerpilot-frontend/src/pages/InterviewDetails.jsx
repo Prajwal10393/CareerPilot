@@ -6,7 +6,7 @@ import {
 } from "react-router-dom";
 import "../App.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://careerpilot-wxja.onrender.com";
 
 function InterviewDetails() {
   const navigate = useNavigate();

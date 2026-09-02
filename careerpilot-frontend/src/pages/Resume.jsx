@@ -8,7 +8,7 @@ import PortalLayout from "../components/PortalLayout";
 import "./Resume.css";
 import "../App.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://careerpilot-wxja.onrender.com";
 
 // =========================================================
 // COMPANY + ROLE OPTIONS
